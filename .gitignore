@@ -1,0 +1,10 @@
+# environment and caches
+.venv/
+__pycache__/
+
+# data: rebuilt by the scripts, or on hugging face (jajamken/DLTP_project)
+data/
+filtered_data/
+final_data_split/
+final_triplet/
+final_dataset/
