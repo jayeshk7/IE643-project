@@ -65,3 +65,7 @@ On a fresh machine, `B=/some/big/dir bash scripts/interface/setup_demo.sh` makes
 - Qwen2.5-Coder-7B-Instruct (Apache-2.0) as the base model
 - Phi-4 (Microsoft, MIT) for writing the instructions
 - CadQuery, OpenCascade (OCP), vLLM, Hugging Face transformers and PEFT
+
+## AI Usage Declaration
+
+- Several programs were written with the help of AI. However, we decided what each script does and we reviewed everything.
