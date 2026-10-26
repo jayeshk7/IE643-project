@@ -1,4 +1,4 @@
-# Editing CAD programs from plain-English instructions
+# Editing CAD programs using Natural Language Instructions
 
 IE 643 course project by Jayesh Kandpal (25M0819), team Tired Perceptron.
 
